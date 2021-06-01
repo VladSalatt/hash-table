@@ -1,2 +1,2 @@
 # hash-table
-// implementation hash-table on C
+Personal project // implementation hash-table on C
